@@ -1,0 +1,37 @@
+/*  A Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+}
+
+/* Full-width inputs */
+input[type=text], input[type=password] {
+    
+    padding: 12px 20px;
+    margin: 8px 0;width: 100%;
+
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    
+    width: 100%;
+}
+
+/*  button hover effect  */
+button:hover {
+    opacity: 0.8;
+}
+
+/* style for the cancel button (red) */
+.cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+}
+
+/
